@@ -12,6 +12,8 @@
         <module>template-velocity</module>
         <module>template-mybatis</module>
         <module>template-mulisource</module>
+        <module>template-shiro</module>
+        <module>template-freemarker</module>
     </modules>
 
 

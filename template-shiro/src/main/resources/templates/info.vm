@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8" />
+    <title></title>
+</head>
+<body>
+<h1>登陆信息</h1>
+username: ${user.username}</br>
+password: ${user.password}</br>
+<a href="/user/edit?username=${user.username}">编辑用户信息</a>
+</body>
+</html>

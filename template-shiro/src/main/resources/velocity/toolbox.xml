@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbox>
+
+    <tool>
+        <scope>application</scope>
+        <key>dateUtil1</key>
+        <class>org.apache.velocity.tools.generic.DateTool</class>
+    </tool>
+
+
+     <tool>
+         <key>shiro</key>
+         <scope>application</scope>
+         <class>com.frz.template.shiro.util.Permission</class>
+     </tool>
+</toolbox>
